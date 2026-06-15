@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🐷 Portfólio — Quem Sou Eu?
 
 > Portfólio pessoal desenvolvido para a disciplina **Experiência Criativa: Navegando na Computação e Inteligência Artificial**.
@@ -32,3 +33,6 @@ HTML5 · CSS3 · JavaScript Vanilla · Google Fonts (Fredoka One + Nunito)
 
 ## 🌐 Publicado em
 [Seu link do GitHub Pages aqui]
+=======
+
+>>>>>>> 3f465910c056464fc91398ad17ac135fe6bb861b
